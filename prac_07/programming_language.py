@@ -1,6 +1,6 @@
 """
 CP1404 Practical
-Guitar
+programming language
 Author: Xinmeng Yang
 """
 
