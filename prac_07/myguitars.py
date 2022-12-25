@@ -1,6 +1,6 @@
 """
 CP1404 Practical
-Guitar
+my Guitars
 Author: Xinmeng Yang
 """
 
