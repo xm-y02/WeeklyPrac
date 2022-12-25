@@ -1,13 +1,13 @@
 """
 CP1404 Practical
-Guitar
+language_file_reader
 Author: Xinmeng Yang
 """
 
 import csv
 from collections import namedtuple
 
-from programming_language import ProgrammingLanguage
+from prac_07.programming_language import ProgrammingLanguage
 
 
 def main():
